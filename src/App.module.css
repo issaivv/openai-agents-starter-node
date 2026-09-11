@@ -64,7 +64,8 @@
   flex: 1 1 auto;
   display: flex;
   flex-direction: column;
-  background: #f8f9fa;
+  background: rgba(30, 30, 30, 0.65) !important;
+  backdrop-filter: blur(10px) !important;
   min-width: 0;
   position: relative;
 }
