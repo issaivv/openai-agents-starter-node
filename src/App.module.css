@@ -6,7 +6,7 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  background: var(--bg-base);
+  background: #ffffff;
 }
 
 /* ambient blobs */
