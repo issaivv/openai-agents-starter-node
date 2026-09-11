@@ -6,7 +6,7 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  background: #ffffff !important;
+  background: var(--bg-base);
 }
 
 /* ambient blobs */
@@ -17,7 +17,7 @@
   width: 560px;
   height: 560px;
   border-radius: 50%;
-  background: radial-gradient(circle, #a855f7 0%, transparent 70%) !important;
+  background: radial-gradient(circle, #a855f7 0%, transparent 70%);
   filter: blur(60px);
   pointer-events: none;
   animation: blobFloat 14s ease-in-out infinite alternate;
@@ -29,7 +29,7 @@
   width: 460px;
   height: 460px;
   border-radius: 50%;
-  background: radial-gradient(circle, #a855f7 0%, transparent 70%) !important;
+  background: radial-gradient(circle, #a855f7 0%, transparent 70%);
   filter: blur(80px);
   pointer-events: none;
   animation: blobFloat 18s ease-in-out infinite alternate-reverse;
