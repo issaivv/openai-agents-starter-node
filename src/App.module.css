@@ -141,9 +141,9 @@
 }
 .logo {
   font-size: 1.8rem;
-  color: var(--accent-gold);
+  color: #a855f7;
   line-height: 1;
-  filter: drop-shadow(0 0 8px var(--accent-gold-glow));
+  filter: drop-shadow(0 0 8px var(--accent-purple-glow);
   flex-shrink: 0;
 }
 .title {
