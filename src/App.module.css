@@ -64,7 +64,7 @@
   flex: 1 1 auto;
   display: flex;
   flex-direction: column;
-  background: var(--bg-surface);
+  background: #ffffff;
   min-width: 0;
   position: relative;
 }
@@ -85,13 +85,13 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background: var(--bg-surface);
+  background: #ffffff;
 }
 .historySpinner {
   width: 32px;
   height: 32px;
   border: 3px solid var(--bg-border);
-  border-top-color: var(--accent-gold);
+  border-top-color: #a855f7;
   border-radius: 50%;
   animation: historySpin .8s linear infinite;
 }
