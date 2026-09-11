@@ -46,7 +46,7 @@
 .filename {
   font-family: 'DM Mono', monospace;
   font-size: .72rem;
-  color: #d4a85a;
+  color: #ffffff;
   letter-spacing: .03em;
 }
 
@@ -58,7 +58,7 @@
 .lineCount {
   font-family: 'DM Mono', monospace;
   font-size: .62rem;
-  color: #5a4a2a;
+  color: #a855f7;
   letter-spacing: .05em;
 }
 
@@ -66,8 +66,8 @@
   font-family: 'DM Mono', monospace;
   font-size: .58rem;
   letter-spacing: .12em;
-  color: #7a5c28;
-  border: 1px solid #3a2e18;
+  color: #a855f7;
+  border: 1px solid #ffffff;
   padding: 2px 7px;
   border-radius: 3px;
   background: rgba(120,90,40,.08);
